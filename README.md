@@ -10,6 +10,6 @@ Players can get coins from the environment, opening chests, and defeating enemie
 
 # Supporting Media
 
-Reclaimer OST: https://soundcloud.com/djtaeyong/sets/reclaimer-ost
-Reclaimer Final Presentation: https://www.youtube.com/watch?v=iCcWpw9RU9g
-Itch.io Page: https://alextomkow.itch.io/reclaimer
+* Reclaimer OST: https://soundcloud.com/djtaeyong/sets/reclaimer-ost
+* Reclaimer Final Presentation: https://www.youtube.com/watch?v=iCcWpw9RU9g
+* Itch.io Page: https://alextomkow.itch.io/reclaimer
