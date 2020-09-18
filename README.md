@@ -1,3 +1,6 @@
+Team Name: Red Panda Studios
+Developed by: Emanuel Azaga, Mac Coulter, Luke D'Errico, Jacob Reyes, Alex Tomkow, and Drew Tsun
+
 # Reclaimer
 
 Reclaimer is a mobile game developed on Unity in C#, playable on both Android and iOS. This game was built for USC's Mobile Social Games class (CSCI-599). Players start in a jail cell and have to escape the dungeon. Along the way, they can pick up weapons and items in the environment, and fight medieval enemies that stand in the way of their escape.
